@@ -16,11 +16,11 @@
 ![canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 ![photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
 ![blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&)]
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)]
-![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)]
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)]
-![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)]
+![Construct 3](https://img.shields.io/badge/Construct%203-00FFDA?logo=construct3&logoColor=000&)
+![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
