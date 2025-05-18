@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <a href="https://github.com/bergginu">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bergginu&layout=compact&theme=buefy" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=okami-takimoshi&layout=compact&theme=buefy" />
 </a>
 
 - 🔭 I’m currently working on ...
